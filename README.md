@@ -22,7 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC_redist.x86.exe Installation
 - MySQL-5.5.62-win32.msi Installation
 - HeidiSQL Installation
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/6007f22d-2b00-4827-95a9-abec52510e7e)
+
 <h2>Installation Steps</h2>
 <p>
 </p>
