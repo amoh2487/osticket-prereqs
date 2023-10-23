@@ -96,8 +96,19 @@ Once the PHP 7.3.8 folder was all done and downloaded successfully, the next sof
 <br />
 
 <p>
-</p>
+<p>
 <p>
 
 ![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/036a1ea0-b270-4e87-a638-dd198768ed1f)
 
+Once VC_redist.x86.exe was successfully installed, we went ahead and installed MYQSL 5.5.62 since MYSQL provides a database management system to connect our own data to the data of the ticketing system.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/bdac6bbf-337e-4945-8ea8-05faea0a6924)
+
+After MYSWL 5.5.62 was sucessfully installed to provide database management from our own data to the ticket system, we next downloaded HeidiSQL since HeidiSQL lets us administer our data to the ticketing system and lets us manipulate/change anything on the ticketing system. Lastly, since all of the previous required softwares have downloaded/installed successfully, we can now go and connect to our ticketing system once and for all.
