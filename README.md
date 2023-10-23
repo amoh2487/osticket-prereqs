@@ -89,4 +89,15 @@ After installing the Rewrite Module, we downloaded the PHP 7.3.8  folder since i
 </p>
 <p>
 
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/17238d93-6221-4eec-992f-36f0becef2d5)
+
+Once the PHP 7.3.8 folder was all done and downloaded successfully, the next software installation of VC_redist.x86.exe is required for our ticketing system since these software allows us to to use both C and C++ tools.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/036a1ea0-b270-4e87-a638-dd198768ed1f)
 
