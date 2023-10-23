@@ -34,7 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 
-![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/c5b9e987-1e81-4cf5-9460-5057ad985e00)
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/90f5b445-ad45-4800-94d0-82afe67e817c)
+
   
 Here, we made a virtual machine in Azure studios in order to connect to our ticketing system on Remote Desktop Connection and to also connect to our installation applications while connecting to the ticket itself.
 </p>
