@@ -60,6 +60,6 @@ After creating our virtual machine and connecting/logging in to our Remote Deskt
 ![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/79abf9ff-61fc-4018-a85c-b906eff88670)
 
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After we made sure our Internet Information Services was working, we went ahead and installed the PHP Manager for IIS and is one of the required software to install to use/connect our ticketing system.
 </p>
 <br />
