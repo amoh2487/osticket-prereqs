@@ -42,10 +42,13 @@ Here, we made a virtual machine in Azure studios in order to connect to our tick
 <br />
 
 <p>
-![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/d992b493-0924-4a04-88d4-17cc51d42b94)
 
 </p>
 <p>
+
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/d992b493-0924-4a04-88d4-17cc51d42b94)
+
+  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
