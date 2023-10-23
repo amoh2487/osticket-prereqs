@@ -49,7 +49,7 @@ Here, we made a virtual machine in Azure studios in order to connect to our tick
 ![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/d992b493-0924-4a04-88d4-17cc51d42b94)
 
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating our virtual machine and connecting/logging in to our Remote Desktop Connection, we anbled the CGI feature under Application Development Feature; and after that step was completed, we go to a search engine and type 127.0.0.1 which activates and installs our Internet Information Services to ultimately connect to our ticketing system.
 </p>
 <br />
 
