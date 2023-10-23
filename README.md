@@ -63,3 +63,30 @@ After creating our virtual machine and connecting/logging in to our Remote Deskt
 After we made sure our Internet Information Services was working, we went ahead and installed the PHP Manager for IIS and is one of the required software to install to use/connect our ticketing system.
 </p>
 <br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/dee7c4a2-3c7b-4ed2-aa7f-848468e5fd2b)
+
+
+After PHP Manager for IIS was successfully installed, we next installed the Rewrite Module for the next required software to connect to our ticketing system.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/1119946c-92d1-45f0-8d5f-207655b64705)
+
+After installing the Rewrite Module, we downloaded the PHP 7.3.8  folder since in this folder we have all of our files/documents to connect to our ticket system because without anything like documents attached to the ticketing system, we cannot access the ticketing system at all.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+
