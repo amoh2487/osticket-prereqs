@@ -21,13 +21,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP 7.3.8 Installation
 - VC_redist.x86.exe Installation
 - MySQL-5.5.62-win32.msi Installation
-- HeidiSQL Installation
-![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/6007f22d-2b00-4827-95a9-abec52510e7e)
+- HeidiSQL Installatio)
 
 <h2>Installation Steps</h2>
 <p>
 </p>
-<p>
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/6007f22d-2b00-4827-95a9-abec52510e7e)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
