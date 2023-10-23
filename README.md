@@ -32,7 +32,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/6007f22d-2b00-4827-95a9-abec52510e7e)
+![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/03c5db00-2778-4f67-afb6-8fac1faf7488)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
