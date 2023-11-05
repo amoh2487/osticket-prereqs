@@ -109,4 +109,7 @@ Once VC_redist.x86.exe was successfully installed, we went ahead and installed M
 
 ![image](https://github.com/amoh2487/osticket-prereqs/assets/148664179/bdac6bbf-337e-4945-8ea8-05faea0a6924)
 
-After MYSWL 5.5.62 was sucessfully installed to provide database management from our own data to the ticket system, we next downloaded HeidiSQL since HeidiSQL lets us administer our data to the ticketing system and lets us manipulate/change anything on the ticketing system. Lastly, since all of the previous required softwares have downloaded/installed successfully, we can now go and connect to our ticketing system once and for all.
+After MYSWL 5.5.62 was sucessfully installed to provide database management from our own data to the ticket system, we next downloaded HeidiSQL since HeidiSQL lets us administer our data to the ticketing system and lets us manipulate/change anything on the ticketing system.
+
+
+ Lastly, since all of the previous required softwares have downloaded/installed successfully, we can now go and connect to our ticketing system once and for all.
